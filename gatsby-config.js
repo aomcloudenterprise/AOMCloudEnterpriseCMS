@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: 'AOMCloudEnterpriseCMS',
-    author: 'konsumer',
-    authorLink: 'https://github.com/konsumer',
-    disqus: 'gatsby-starter-blog'// put your disqus ID here
+    author: 'danklut',
+    authorLink: 'https://github.com/danklut',
+    disqus: 'false'// put your disqus ID here
   },
   plugins: [
     {
